@@ -1,0 +1,3 @@
+[submodule "springboot"]
+	path = springboot
+	url = https://github.com/santurini/springboot.git
